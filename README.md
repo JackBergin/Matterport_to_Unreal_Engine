@@ -1,6 +1,7 @@
 # Matterport to Unreal Engine
-![download](https://user-images.githubusercontent.com/81708456/173877557-8a63ee46-a522-4f19-bd2a-ace998aeb209.png)
 ![download](https://user-images.githubusercontent.com/81708456/173877737-a3052618-251c-4eff-a8ab-027d65c82adf.png)
+![right-arrow-icon-black-arrow-symbol-vector-27873977](https://user-images.githubusercontent.com/81708456/173877987-b940256c-300d-4523-b95c-fa0adedea62b.jpg)
+![download](https://user-images.githubusercontent.com/81708456/173877557-8a63ee46-a522-4f19-bd2a-ace998aeb209.png)
 
 ## Purpose Statement & Setup
 
