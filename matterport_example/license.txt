@@ -1,0 +1,11 @@
+Model Information:
+* title:	Matterport_MemorialHall_2022 (22A)
+* source:	https://sketchfab.com/3d-models/matterport-memorialhall-2022-22a-4f8605cf85254f4fb46606a234fc2c03
+* author:	GGELabs_UNB (https://sketchfab.com/GGELabs_UNB)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Matterport_MemorialHall_2022 (22A)" (https://sketchfab.com/3d-models/matterport-memorialhall-2022-22a-4f8605cf85254f4fb46606a234fc2c03) by GGELabs_UNB (https://sketchfab.com/GGELabs_UNB) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
